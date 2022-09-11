@@ -1,5 +1,4 @@
 package com.bmszc.patrik;
-
 import java.util.Scanner;
 
 public class Feladat8 {

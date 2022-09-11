@@ -1,5 +1,4 @@
 package com.bmszc.patrik;
-
 public class Feladat11 {
     public static void feladat11(){
 

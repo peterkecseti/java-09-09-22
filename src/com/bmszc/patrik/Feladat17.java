@@ -1,5 +1,4 @@
 package com.bmszc.patrik;
-
 public class Feladat17 {
 
     static int[] tomb1 = new int[10];

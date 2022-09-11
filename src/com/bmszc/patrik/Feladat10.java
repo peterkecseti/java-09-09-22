@@ -1,6 +1,4 @@
 package com.bmszc.patrik;
-
-import javax.swing.*;
 import java.util.*;
 
 public class Feladat10 {

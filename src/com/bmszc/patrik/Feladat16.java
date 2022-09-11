@@ -1,8 +1,4 @@
 package com.bmszc.patrik;
-
-import com.sun.security.jgss.GSSUtil;
-
-import java.lang.module.FindException;
 import java.util.Scanner;
 
 public class Feladat16 {

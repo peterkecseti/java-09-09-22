@@ -1,5 +1,4 @@
 package com.bmszc.patrik;
-
 import java.util.Random;
 
 public class Feladat15 {
